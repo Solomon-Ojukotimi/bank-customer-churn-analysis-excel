@@ -60,7 +60,7 @@ Bank_Customer_Churn_Dashboard.xlsx – Interactive Excel dashboard
 
 images/ – Dashboard screenshots for preview
 
-data/ – Source dataset (if applicable)
+data/ – Bank_Churn_Raw
 
 # How to Use
 
